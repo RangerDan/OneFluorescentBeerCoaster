@@ -1,0 +1,24 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Drink Lantern
+*Date=15:17:47
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;3.55851;-18.2108;0;Bottom;Hole4
+2;;TO220 [THT];11.1785;-7.03479;0;Bottom;Mosfet
+3;;TO92 [THT];23.688;-7.96189;0;Bottom;Trnstr
+4;;THT;34.0385;-8.05079;90;Bottom;Switch
+5;;jst-2-pth;20.3385;-15.2308;0;Bottom;Btn
+6;;jst-2-pth;10.1785;-15.2308;0;Bottom;LED
+7;3.3;THT;28.9585;-2.97079;0;Bottom;R2
+8;;jst-2-pth;30.4985;-15.2308;0;Bottom;Batt
+9;100k;THT;3.55851;-8.05079;90;Bottom;R1
